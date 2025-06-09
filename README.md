@@ -1,4 +1,4 @@
-# kt_2_todo
+# todo-flutter
 
 A new Flutter project.
 
